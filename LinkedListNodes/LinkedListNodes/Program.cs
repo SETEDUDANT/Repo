@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitTest25
+namespace LinkedListNodes
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a = 5;
         }
     }
 }
